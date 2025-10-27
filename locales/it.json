@@ -1,0 +1,59 @@
+{
+  "header": {
+    "subtitle": "Registro delle ore per il servizio di pioniere."
+  },
+  "nav": {
+    "home": "Home",
+    "progress": "Progresso",
+    "history": "Cronologia",
+    "settings": "Impostazioni"
+  },
+  "home": {
+    "quickSummary": "Riepilogo Rapido",
+    "currentMonthHours": "Ore Mese Corrente ({0})",
+    "serviceYearHours": "Totale Ore Anno di Servizio"
+  },
+  "calendar": {
+    "addHoursFor": "Aggiungi Ore per {0}",
+    "hours": "Ore",
+    "hoursPlaceholder": "es. 2.5",
+    "cancel": "Annulla",
+    "save": "Salva"
+  },
+  "progress": {
+    "title": "Progresso Annuale",
+    "goal": "Obiettivo: {0} ore",
+    "hours": "ore",
+    "completed": "% completato",
+    "monthlyStatus": "Stato Mensile",
+    "hoursRemaining": "Ore Mancanti",
+    "monthlyAvgNeeded": "Media Mensile Necessaria"
+  },
+  "history": {
+    "title": "Cronologia Anno di Servizio {0}",
+    "hours": "Ore:",
+    "share": "Condividi",
+    "copied": "Copiato!",
+    "shareText": "Rapporto di {0} {1}: {2} ore."
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "appearance": "Aspetto",
+    "darkTheme": "Tema Scuro",
+    "dataManagement": "Gestione Dati",
+    "createBackup": "Crea Backup",
+    "importBackup": "Importa Backup",
+    "clearData": "Cancella Tutti i Dati",
+    "language": "Lingua",
+    "importSuccess": "Dati importati con successo!",
+    "importError": "Errore: Il file di backup non è valido.",
+    "clearConfirm": "Sei sicuro di voler cancellare tutti i dati? Questa azione è irreversibile.",
+    "clearSuccess": "Tutti i dati sono stati cancellati."
+  },
+  "months": {
+    "full": "Gennaio,Febbraio,Marzo,Aprile,Maggio,Giugno,Luglio,Agosto,Settembre,Ottobre,Novembre,Dicembre"
+  },
+  "days": {
+    "short": "Lun,Mar,Mer,Gio,Ven,Sab,Dom"
+  }
+}

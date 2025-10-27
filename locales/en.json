@@ -1,0 +1,59 @@
+{
+  "header": {
+    "subtitle": "Hour log for pioneer service."
+  },
+  "nav": {
+    "home": "Home",
+    "progress": "Progress",
+    "history": "History",
+    "settings": "Settings"
+  },
+  "home": {
+    "quickSummary": "Quick Summary",
+    "currentMonthHours": "Current Month's Hours ({0})",
+    "serviceYearHours": "Total Service Year Hours"
+  },
+  "calendar": {
+    "addHoursFor": "Add Hours for {0}",
+    "hours": "Hours",
+    "hoursPlaceholder": "e.g. 2.5",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "progress": {
+    "title": "Annual Progress",
+    "goal": "Goal: {0} hours",
+    "hours": "hours",
+    "completed": "% completed",
+    "monthlyStatus": "Monthly Status",
+    "hoursRemaining": "Hours Remaining",
+    "monthlyAvgNeeded": "Monthly Average Needed"
+  },
+  "history": {
+    "title": "Service Year History {0}",
+    "hours": "Hours:",
+    "share": "Share",
+    "copied": "Copied!",
+    "shareText": "Report for {0} {1}: {2} hours."
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "darkTheme": "Dark Theme",
+    "dataManagement": "Data Management",
+    "createBackup": "Create Backup",
+    "importBackup": "Import Backup",
+    "clearData": "Clear All Data",
+    "language": "Language",
+    "importSuccess": "Data imported successfully!",
+    "importError": "Error: The backup file is not valid.",
+    "clearConfirm": "Are you sure you want to delete all data? This action is irreversible.",
+    "clearSuccess": "All data has been deleted."
+  },
+  "months": {
+    "full": "January,February,March,April,May,June,July,August,September,October,November,December"
+  },
+  "days": {
+    "short": "Mon,Tue,Wed,Thu,Fri,Sat,Sun"
+  }
+}
